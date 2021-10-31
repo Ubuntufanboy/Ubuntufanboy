@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ubuntufanboy)
-- 👀 I’m interested in Python,C++, and C
+- 👀 I’m interested in Python, Dart, Rust, Shell scripting, Linux (Ofc), Maybe even Julia
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a Music program!
 - 📫 How to reach me Email (Ilovemincraft288@gmail.com) or Discord (Apolloiscool#7891)
