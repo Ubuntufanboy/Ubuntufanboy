@@ -6,7 +6,7 @@ I am interested in python scripting and building usless while interesting things
 
 Discord: apolloiscool#7891
 
-Email: ilove4dmovies(prefered) or ilovemincraft288@gmail.com
+Email: ilove4dmovies@gmail.com (prefered) or ilovemincraft288@gmail.com
 
 # Interests
 
