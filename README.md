@@ -1,5 +1,10 @@
 # *Hello*
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubuntufanboy)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 Greetings to all beings
 
 ## Interests
