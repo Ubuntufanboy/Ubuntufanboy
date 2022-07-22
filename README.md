@@ -11,7 +11,7 @@ Greetings to all beings
 
 ## WARNING
 
-I often will make repos and let the die because I tried to make something too difficult. I may re-visit it one day but it is unlikley. 
+I often will make repos and let them die because I tried to make something too difficult. I may re-visit it one day but it is unlikley. 
 
 ## Interests
 ### (Ranked from highest interest to lower interest)
