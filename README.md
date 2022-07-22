@@ -4,7 +4,7 @@
   <img src="https://imgs.search.brave.com/X_Mjj5O4ZNqgjOQfqgUk4i1zgrnUulaR0XWVO7Lz9pg/rs:fit:152:149:1/g:ce/aHR0cHM6Ly9uZXdz/LWNkbi5zb2Z0cGVk/aWEuY29tL2ltYWdl/cy9uZXdzMi9UaGUt/TmV3LVVidW50dS1V/c2VyLUd1aWRlLUlu/c3RhbGwtYW5kLVVu/aW5zdGFsbC1Tb2Z0/d2FyZS0yLnBuZw" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://discord.gg/nuV5nwG7FQ">
     <img src="https://img.shields.io/discord/999888301739741275" alt="My discord server (Dead btw)"/>
   </a>
@@ -17,9 +17,6 @@
   你好
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-https://github-readme-codewars-stats.herokuapp.com/api/?username=Archfanboy&badge&colormode=dark_mode
-
 
 
 <div id="header" align="center">
