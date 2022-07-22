@@ -5,7 +5,13 @@
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
+
 Greetings to all beings
+
+
+## WARNING
+
+I often will make repos and let the die because I tried to make something too difficult. I may re-visit it one day but it is unlikley. 
 
 ## Interests
 ### (Ranked from highest interest to lower interest)
