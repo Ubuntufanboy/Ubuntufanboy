@@ -5,7 +5,7 @@
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
-https://camo.githubusercontent.com/e99a356fa9c7c49c3ab8ed8f8234efaa7356f950af08c433617c95f001abe9a0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5361727468616b32313433266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
 Greetings to all beings
 
