@@ -13,6 +13,11 @@ Greetings to all beings
 
 I often will make repos and let them die because I tried to make something too difficult. I may re-visit it one day but it is unlikley. 
 
+# Projects I made that you should check out!
+
+- Silver ( A python library for managing sound)
+- auto-video-maker ( A way to publish videos with with a still image and audio )
+
 ## Interests
 ### (Ranked from highest interest to lower interest)
 
