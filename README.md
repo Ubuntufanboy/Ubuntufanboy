@@ -1,10 +1,5 @@
 # *Hello*
 
-<p align="center">
-  <img src="images/python.png" />
-</p>
-
-
 ## A bit about me
 
 - I am a programmer who is very passionate about FOSS. I try to contribute in every way I can.
