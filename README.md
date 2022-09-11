@@ -1,5 +1,7 @@
 # *Hello*
 
+![alt text](images/python.png "Title")
+
 ## A bit about me
 
 - I am a programmer who is very passionate about FOSS. I try to contribute in every way I can.
