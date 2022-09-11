@@ -1,6 +1,9 @@
 # *Hello*
 
-![alt text](images/python.png "Title")
+<p align="center">
+  <img src="images/python.png" />
+</p>
+
 
 ## A bit about me
 
