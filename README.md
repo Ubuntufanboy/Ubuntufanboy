@@ -22,8 +22,10 @@
 
 # Projects I made that you should check out!
 
-- Silver ( A python library for managing sound)
-- Dolphin ( Automatic video generation )
+- Silver ( A python library for managing sound) https://www.github.com/Ubuntufanboy/Silver
+- Dolphin ( Automatic video generation ) https://www.github.com/Ubuntufanboy/Dolphin
+- bad-apple (Playing the video Bad Apple!! in the linux terminal) https://www.github.com/Ubuntufanboy/bad-apple
+- Spammer (Using macros to either annoy your friends or to automate key strokes) https://www.github.com/Ubuntufanboy/Spammer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubuntufanboy)](https://github.com/anuraghazra/github-readme-stats)
 
