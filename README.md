@@ -9,6 +9,9 @@
 - I am trying to learn more about networking and media processing
 - I like to cook!
 
+## Screenshot of my work
+![Example](example.png)
+
 ## Stuff that interests me
 
 #1 Linux
