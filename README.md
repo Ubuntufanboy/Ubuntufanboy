@@ -5,7 +5,7 @@
 - I am a programmer who is very passionate about FOSS. I try to contribute in every way I can.
 - I am learning Chinese for fun in my free time
 - I been using linux since I was 8 years old! (Very long time)
-- I Been using python for a bit over a year
+- I Been using python for 2 years!
 - I am trying to learn more about networking and media processing
 - I like to cook!
 
