@@ -10,7 +10,11 @@
 - I like to cook!
 
 ## Screenshot of my work
-![Example](example.png)
+![Example](example2.png)
+
+## Here is my home made audio-codec
+
+![Example](video.mp4)
 
 ## Stuff that interests me
 
