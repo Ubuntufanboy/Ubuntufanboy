@@ -14,7 +14,7 @@
 
 ## Here is my home made audio-codec
 
-![Example](video.mp4)
+https://github.com/Ubuntufanboy/Ubuntufanboy/assets/82414370/c6d20ac3-a225-4f66-87c8-63f93623cc7a
 
 ## Stuff that interests me
 
