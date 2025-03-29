@@ -1,36 +1,39 @@
-# *Hello*
+# Sup, I'm Apollo
 
-## A bit about me
+## A little bit about me  
+I'm a high school student passionate about Artificial Intelligence, robotics, and low level code. I've been working on AI research for several years, researching biological implementations of neural networks.  
 
-- I am a programmer who is very passionate about FOSS. I try to contribute in every way I can.
-- I am learning Chinese for fun in my free time
-- I been using linux since I was 8 years old! (Very long time)
-- I Been using python for 2 years!
-- I am trying to learn more about networking and media processing
-- I like to cook!
+- Researching **Biochemical Processing Units (BPU)** and **"Translation Layer prompting"**  
+- Developing optimizations for LLM interfaces and smarter Neural Network implementations. 
+- Building robots for the **RoboCup Junior Open**  
+- Learning more about low level code and cybersecurity.
 
-## Screenshot of my work
-![Example](example2.png)
+## Open-Source-Week
+Here are some of my projects I released for Open Source Week!:  
 
-## Here is my home made audio-codec
+- Day 1: **[Tales Of Zenmania](https://github.com/Ubuntufanboy/tales-of-zenmania)** – A small fun game inspired by "1984" by George Orwell
+- Day 2: **[Robot Strategy Playground](https://github.com/Ubuntufanboy/robot-simulation)** – A way to place 2 robots against eachother in a match of 2v2 soccer!
+- Day 3: **[DJ-CHIP](https://github.com/Ubuntufanboy/DJ-CHIP)** – A customizable way to create true 8-bit music with raw sound waves!
+- Day 4: **[Zenith Interpreter](https://github.com/Ubuntufanboy/Zenith)** - A BASIC inspired interpreter that runs entirely in the context window of an LLM.
+- Day 5: **[Helios](https://github.com/Ubuntufanboy/Helios)** - My flagship Open Source Week submission. An entire game console with custom Video/Audio and Custom 8 bit CPU. Check it out!
 
-https://github.com/Ubuntufanboy/Ubuntufanboy/assets/82414370/c6d20ac3-a225-4f66-87c8-63f93623cc7a
+Here are the repositories released by my good friend [Zen](https://github.com/zen-ham) for Open Source Week as well:
 
-## Stuff that interests me
+- Day 1: **[zhmiscellany](https://github.com/zen-ham/zhmiscellany)** - An organized collection of unique and useful functions/classes/modules/bindings.
+- Day 2: **[garrysmod workshop scripts](https://github.com/zen-ham/garrysmod_workshop_scripts)** - Scripts for interacting with the steam workshop and building files related to the steam workshop
+- Day 3: **[Tales of Zenmania 2](https://github.com/zen-ham/tales_of_zenmania_2)** - Far expanded version of my original game "Tales of Zenmania".
+- Day 4: **[Local LLM Agent](https://github.com/zen-ham/local_llm_agent) - An LLM agent implementation in python.
+- Day 5: **[Search OCR](https://github.com/zen-ham/Search-OCR)** - Local OCR indexer and search engine, digests all image files on the system into a pickle cluster and allows key word or sentence searching in real time across 100K+ files.
 
-#1 Linux
-#2 Chinese content
-#3 Media processing (Basically dealing with videos, audio, and images)
-#4 Networking
-#5 Microcontrollers
+## Tech Stack  
+- **Languages:** Python, Rust, and many kinds of Assembly
+- **Libraries:** PyTorch, Numpy, Mido
+- **Tools:** Arch Linux, Docker, Basic Cybersecurity tools, and many more
 
-# Projects I made that you should check out!
+## Contact  
+Find my work interesting? Come talk to me here:  
 
-- Silver ( A python library for managing sound) https://www.github.com/Ubuntufanboy/Silver
-- Dolphin ( Automatic video generation ) https://www.github.com/Ubuntufanboy/Dolphin
-- bad-apple (Playing the video Bad Apple!! in the linux terminal) https://www.github.com/Ubuntufanboy/bad-apple
-- Spammer (Using macros to either annoy your friends or to automate key strokes) https://www.github.com/Ubuntufanboy/Spammer
+- **GitHub:** [@Ubuntufanboy](https://github.com/Ubuntufanboy)  
+- **Discord** ``apolloiscool``
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubuntufanboy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubuntufanboy)](https://github.com/anuraghazra/github-readme-stats)
