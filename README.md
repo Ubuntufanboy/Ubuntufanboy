@@ -22,7 +22,7 @@ Here are the repositories released by my good friend [Zen](https://github.com/ze
 - Day 1: **[zhmiscellany](https://github.com/zen-ham/zhmiscellany)** - An organized collection of unique and useful functions/classes/modules/bindings.
 - Day 2: **[garrysmod workshop scripts](https://github.com/zen-ham/garrysmod_workshop_scripts)** - Scripts for interacting with the steam workshop and building files related to the steam workshop
 - Day 3: **[Tales of Zenmania 2](https://github.com/zen-ham/tales_of_zenmania_2)** - Far expanded version of my original game "Tales of Zenmania".
-- Day 4: **[Local LLM Agent](https://github.com/zen-ham/local_llm_agent) - An LLM agent implementation in python.
+- Day 4: **[Local LLM Agent](https://github.com/zen-ham/local_llm_agent)** - An LLM agent implementation in python.
 - Day 5: **[Search OCR](https://github.com/zen-ham/Search-OCR)** - Local OCR indexer and search engine, digests all image files on the system into a pickle cluster and allows key word or sentence searching in real time across 100K+ files.
 
 ## Tech Stack  
