@@ -3,7 +3,8 @@
 ## A little bit about me  
 I'm a high school student passionate about Artificial Intelligence, robotics, and low level code. I've been working on AI research for several years, researching biological implementations of neural networks.  
 
-- Researching **Biochemical Processing Units (BPU)** and **"Translation Layer prompting"**  
+- Researching **Biochemical Processing Units (BPU)** and **"Translation Layer prompting"**
+- Studying the relationship between entropy and model convergence  
 - Developing optimizations for LLM interfaces and smarter Neural Network implementations. 
 - Building robots for the **RoboCup Junior Open**  
 - Learning more about low level code and cybersecurity.
