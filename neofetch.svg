@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 850 500">
+  <style>
+    .bg { fill: #1e1e1e; }
+    .text { 
+      font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace; 
+      font-size: 14px; 
+      fill: #d3dae3; 
+      white-space: pre; 
+    }
+    .accent { fill: #1793d1; font-weight: bold; } /* Arch Blue */
+    .prompt { fill: #23d18b; font-weight: bold; } /* User Green */
+    .label { fill: #1793d1; font-weight: bold; }
+    
+    .cursor { animation: blink 1s step-end infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+    .char { opacity: 0; animation: type 0.1s forwards; }
+    
+    .d1 { animation-delay: 0.1s; }
+    .d2 { animation-delay: 0.2s; }
+    .d3 { animation-delay: 0.3s; }
+    .d4 { animation-delay: 0.4s; }
+    .d5 { animation-delay: 0.5s; }
+    .d6 { animation-delay: 0.6s; }
+    .d7 { animation-delay: 0.7s; }
+    .d8 { animation-delay: 0.8s; }
+
+    @keyframes type { to { opacity: 1; } }
+
+    .output { 
+      opacity: 0; 
+      animation: fadeIn 0.5s forwards; 
+      animation-delay: 1.2s; /* Wait for typing to finish */
+    }
+    @keyframes fadeIn { to { opacity: 1; } }
+
+    .cursor-active { 
+      animation: hideCursor 0.1s forwards; 
+      animation-delay: 1.2s; 
+    }
+    @keyframes hideCursor { to { opacity: 0; } }
+  </style>
+
+  <rect width="100%" height="100%" class="bg" rx="10" />
+
+  <g transform="translate(25, 35)">
+    
+    <text x="0" y="0" class="text">
+      <tspan class="prompt">apollo@github</tspan> ~ $ <tspan class="char d1">n</tspan><tspan class="char d2">e</tspan><tspan class="char d3">o</tspan><tspan class="char d4">f</tspan><tspan class="char d5">e</tspan><tspan class="char d6">t</tspan><tspan class="char d7">c</tspan><tspan class="char d8">h</tspan><tspan class="cursor cursor-active">_</tspan>
+    </text>
+
+    <g class="output" transform="translate(0, 30)">
+      
+      <text x="0" y="0" class="text accent">                   -`</text>
+      <text x="0" y="20" class="text accent">                  .o+`</text>
+      <text x="0" y="40" class="text accent">                 `ooo/</text>
+      <text x="0" y="60" class="text accent">                `+oooo:</text>
+      <text x="0" y="80" class="text accent">               `+oooooo:</text>
+      <text x="0" y="100" class="text accent">               -+oooooo+:</text>
+      <text x="0" y="120" class="text accent">             `/:-:++oooo+:</text>
+      <text x="0" y="140" class="text accent">            `/++++/+++++++:</text>
+      <text x="0" y="160" class="text accent">           `/++++++++++++++:</text>
+      <text x="0" y="180" class="text accent">          `/+++ooooooooooooo/`</text>
+      <text x="0" y="200" class="text accent">         ./ooosssso++osssssso+`</text>
+      <text x="0" y="220" class="text accent">        .oossssso-````/ossssss+`</text>
+      <text x="0" y="240" class="text accent">       -osssssso.      :ssssssso.</text>
+      <text x="0" y="260" class="text accent">      :osssssss/        osssso+++.</text>
+      <text x="0" y="280" class="text accent">     /ossssssss/        +ssssooo/-</text>
+      <text x="0" y="300" class="text accent">   `/ossssso+/:-        -:/+osssso+-</text>
+      <text x="0" y="320" class="text accent">  `+sso+:-`                 `.-/+oso:</text>
+      <text x="0" y="340" class="text accent"> `++:.                           `-/+/</text>
+      <text x="0" y="360" class="text accent"> .`                                 `/</text>
+
+      <text x="380" y="0" class="text"><tspan class="label">USER</tspan>: Ubuntufanboy (Apollo)</text>
+      <text x="380" y="20" class="text"><tspan class="label">ROLE</tspan>: CS Student &amp; AI Researcher</text>
+      <text x="380" y="40" class="text"><tspan class="label">UPT</tspan>:  Several Years (Researching)</text>
+      <text x="380" y="60" class="text">---------------------------</text>
+      
+      <text x="380" y="80" class="text"><tspan class="label">OS</tspan>:   Arch Linux x86_64</text>
+      <text x="380" y="100" class="text"><tspan class="label">FOCUS</tspan>: AI Safety, Interpretability, Robotics</text>
+      <text x="380" y="120" class="text"><tspan class="label">LANG</tspan>:  Python, Rust, Assembly</text>
+      <text x="380" y="140" class="text"><tspan class="label">LIBS</tspan>:  PyTorch, Numpy, bitsandbytes</text>
+      
+      <text x="380" y="160" class="text"><tspan class="label">PROJ</tspan>:  Helios (8-bit Console)</text>
+      <text x="380" y="180" class="text"><tspan class="label">PROJ</tspan>:  Zenith (LLM Interpreter)</text>
+      <text x="380" y="200" class="text"><tspan class="label">GAME</tspan>:  Tales of Zenmania</text>
+      <text x="380" y="220" class="text"><tspan class="label">GAME</tspan>:  Robot Strategy Playground</text>
+      <text x="380" y="240" class="text"><tspan class="label">AUDIO</tspan>: DJ-CHIP (Raw Sound Wave gen)</text>
+      
+      <text x="380" y="280" class="text">---------------------------</text>
+      <text x="380" y="300" class="text"><tspan class="label">CONTACT</tspan>: Discord: apolloiscool</text>
+      
+      <text x="380" y="340" class="text">
+        <tspan fill="#1e1e1e">███</tspan>
+        <tspan fill="#bf616a">███</tspan>
+        <tspan fill="#a3be8c">███</tspan>
+        <tspan fill="#ebcb8b">███</tspan>
+        <tspan fill="#81a1c1">███</tspan>
+        <tspan fill="#b48ead">███</tspan>
+        <tspan fill="#88c0d0">███</tspan>
+        <tspan fill="#e5e9f0">███</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
