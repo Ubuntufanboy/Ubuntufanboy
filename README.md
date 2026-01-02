@@ -1,13 +1,25 @@
 # Sup, I'm Apollo
+> "Life be crazy sometimes 🌇"  
 
-## A little bit about me  
-I'm extremely passionate about Artificial Intelligence, robotics, and low level code. I've been working on AI research for several years, researching biological implementations of neural networks.  
+![neofetch readme](neofetch.svg)
 
-- Researching **Biochemical Processing Units (BPU)** and **"Translation Layer prompting"**
-- Studying the relationship between entropy and model convergence  
-- Developing optimizations for LLM interfaces and smarter Neural Network implementations. 
-- Building robots for the **RoboCup Junior Open**  
-- Learning more about low level code and cybersecurity.
+## Who is this "Ubuntufanboy" guy?
+- ~Broke~ University CS student
+- Retired National Robocup Junior Winner
+- Rocket/Robot engineer
+- AI Lab owner
+- Linux nerd (I use arch btw)
+- 我喜欢学中文！（还有看中文电影。。。）
+ 
+
+## What I'm Working on
+
+- Mechanistic Interpretability (Looking for AI research assistants!)
+- Autonomous Food Delivary
+- 3D Body Tracking Analysis
+- AI Model Optimization 
+- Teaching Computer Vision at University Workshops
+- Researching Rocket Avionics for Two-Stage Rockets (If only they'd just bring back the Apollo missions 😔)
 
 ## Open-Source-Week
 Here are some of my projects I released for Open Source Week!:  
@@ -25,16 +37,3 @@ Here are the repositories released by my good friend [Zen](https://github.com/ze
 - Day 3: **[Tales of Zenmania 2](https://github.com/zen-ham/tales_of_zenmania_2)** - Far expanded version of my original game "Tales of Zenmania".
 - Day 4: **[Local LLM Agent](https://github.com/zen-ham/local_llm_agent)** - An LLM agent implementation in python.
 - Day 5: **[Search OCR](https://github.com/zen-ham/Search-OCR)** - Local OCR indexer and search engine, digests all image files on the system into a pickle cluster and allows key word or sentence searching in real time across 100K+ files.
-
-## Tech Stack  
-- **Languages:** Python, Rust, and many kinds of Assembly
-- **Libraries:** PyTorch, Numpy, Mido
-- **Tools:** Arch Linux, Docker, Basic Cybersecurity tools, and many more
-
-## Contact  
-Find my work interesting? Come talk to me here:  
-
-- **GitHub:** [@Ubuntufanboy](https://github.com/Ubuntufanboy)  
-- **Discord** ``apolloiscool``
-
-
