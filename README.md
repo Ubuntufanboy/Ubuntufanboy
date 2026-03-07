@@ -21,6 +21,10 @@ I am a university Computer Science undergraduate bridging the gap between low-le
 - **Computer Vision:** Teaching fundamental CV concepts at university-level workshops.
 - **Rocket Avionics:** Researching and building control systems for two-stage rockets.
 
+## IAQ Research
+
+My flashship research paper (IAQ) explores uses precision annelealing to achive equivalent performance as FP32 models while using up to 16x less memory. Check it out in the pinned repositories!
+![IAQ Graph](image12.png)
 ## Open-Source Week
 I'm a huge believer in building in public. Here are the projects I built and released during Open Source Week:
 
